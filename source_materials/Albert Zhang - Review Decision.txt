@@ -1,0 +1,143 @@
+=== PAGE 1 ===
+Reviewer Comments 
+ 
+Mapping Mutations to Music: Sonification and Comparative Analysis of Xylella fastidiosa Genomic 
+Data 
+ 
+Summary: The manuscript investigates whether sonification can help distinguish sequence differences 
+among Xylella fastidiosa  samples by turning sequence data into sound. The study uses three NCBI 
+sequences, including one described as a minimally mutated reference a nd two described as disease -
+associated strains. The authors pre -process the sequences, transcribe them into mRNA and map 
+nucleotides and codons to musical features. They then compare the audio outputs by pitch, tone, 
+rhythm and pattern. The authors also us e BLASTp, spectrogram analysis and repeated sonification 
+runs as forms of validation. Based on these comparisons, the manuscript states that samples with more 
+mutations show more disrupted sound patterns and suggests that sonification may complement 
+standard genomic analysis. 
+ 
+Major Issues: 
+ 
+1. The ma nuscript states the general aim  but the aim and hypothesis are not presented clearly 
+enough in the introduction. The main idea is present, but it is brief and not framed in a direct, 
+testable way. A clearer statement of the study aim and hypothesis would improve the focus of 
+the paper.  
+2. There is a major biological error in the wording. Xylella fastidiosa is described as “viral” and as 
+having a “viral genome,” but it is a bacterial plant pathogen. This should be corrected throughout 
+the manuscript. Specifically, the abstract states ‘the v iral pathogens Olive Quick Decline 
+Syndrome and Citrus Variegated Chlorosis’ and claims ‘the viral genomes’ showed audio shifts, 
+but OQDS and CVC are bacterial diseases, not viral pathogens, and Xylella fastidiosa has no viral 
+genome. Describing a bacteriu m as a virus is a fundamental scientific error. That ’s not okay. 
+Rewrite the biological framing to correctly identify the organisms as bacterial, and specify the 
+exact strain, subspecies, and accession number for each sequence analyzed. 
+3. The abstract gives the general topic and the main conclusion but it is still too vague on the method. 
+It mentions pitch assignment and validation  but it does not explain the mapping logic or the 
+comparison design clearly enough. The abstract should describe the method more directly.  
+4. The strain claims do not appear to match the references used to support them. The manuscript 
+links the selected viru lent strains to Olive Quick Decline Syndrome and Citrus Variegated 
+Chlorosis through references 2 and 3 but these references do not clearly support that use in their 
+current form. The disease associations and the supporting citations should be checked care fully 
+and replaced with more direct sources if needed. Replace both with primary sources that directly 
+document the OQDS and CVC strains chosen for this study, and provide accession numbers for 
+all three sequences in the main text. 
+5. The study analyzes only three genomic sequences (one reference, two virulent strains). This 
+sample size is inadequate for drawing meaningful conclusions about sonification effectiveness. 
+Please include minimum 10-15 sequences per strain type to establish statistical significance. 
+6. The sequence selection needs very careful verification. The manuscript states that complete 
+genomes were selected, but DQ991169.1 and PQ550638.1 do not appear to fit that description as 
+presented here. This is a critical issue because the study’s control and comparison set depend on 
+those sequence identities being correct.  
+7. The description of DQ991169.1 as a “minimally mutated reference genome ” is especially 
+concerning. The manuscript treats  it as a genome -level reference but that accession should be 
+verified carefully before any comparison is built on it  (they are short pieces of DNA sequences 
+not the genomes). If the accession is not the correct reference type, the whole analysis becomes 
+
+=== PAGE 2 ===
+difficult to interpret. In addition, the term ‘minimally mutated’ is never defined (relative to what 
+reference sequence, by what mutation count, and over what genomic region? ). Without a 
+definition, the control baseline is undefined and every comparative claim in the results is 
+unanchored. 
+8. The literature review is too limi ted for a paper built around sonification. Important studies on 
+DNA and protein sequence sonification appear to be missing. In particular, Temple (doi: 
+10.1186/s12859-017-1632-x), Martin et al. (doi: 10.1186/s12859 -021-04362-7) and Plaisier et al. 
+(doi: 10.1186/s13104-021-05685-7) would help place the work in the correct research context and 
+clarify what is new here. You are not the first person to research genomic sonification. Please do 
+not claim novelty without acknowledging what prior work has done and clearly stating what is 
+new in this study specifically. 
+9. The manuscript states that sonification can work as an alternative to visual analysis, but it does 
+not explain this value strongly enough. The paper should say more clearly why sound would 
+help in this setting and what it offers beyond standard sequence comparison tools. At present, 
+that justification is still too general.  
+10. The pre -processing steps are described too broadly for reproducibility. The authors mention 
+removing ambiguous nucleotides, fixing formatting and aligning sequences, but they do not 
+name the tools, parameters or decision rules used. These details are needed because they affect 
+the sound output directly. 
+11. The sonification procedure also needs more detail. The manuscr ipt states that bases and codons 
+were mapped to pitches and other sound features, but it does not explain the mapping scheme 
+clearly enough for another researcher to repeat the method. The paper should state exactly how 
+sequence elements were converted into sound and why those choices were made. The following 
+are currently missing and must be provided: the complete pitch -to-nucleotide and codon -to-
+sound mapping tables, frequencies assigned to each base and codon, note durations, octave 
+ranges, normalization rules, tempo, segmentation window size, all software versions used, and 
+the full code or repository link. Without these, there is no way to verify that the claimed audio 
+differences reflect sequence differences rather than arbitrary mapping choices. 
+12. The reason for transcribing DNA into mRNA before sonification is not explained clearly enough. 
+The authors state that this step is biologically meaningful, but they do not show how it improves 
+mutation detection in this design. That logic should be stated more directly.  
+13. The validation section contains a serious wording problem and a broader method problem. The 
+manuscript states that BLASTp was used to compare the sonified seque nces to known protein 
+databases but BLASTp compares protein sequences, not audio outp uts. This wording is unclear 
+and may be incorrect. More broadly, the validation remains mostly qualitative and needs clearer 
+explanation and stronger support. The manuscript claims BLASTp ‘reaffirmed’ that tonal 
+variations ‘truly reflected biologically sig nificant mutations,’ but there are no mutation tables, 
+aligned loci, E-values, percent identities, or before/after alignments linking any specific sound 
+event to any validated sequence change. BLASTp functions as a separate sequence-analysis step 
+here. It does not validate the audio. A genuine validation requires a ground -truth benchmark: a 
+set of known mutations, predefined audio features that should detect them, and measurable 
+sensitivity and specificity. 
+14. The paper lacks proper negative controls. Please i nclude sonification of randomly generated 
+sequences and sequences from non -pathogenic bacteria to demonstrate that observed patterns 
+are specific to pathogenic mutations rather than general sequence variation. 
+15. The results are described mostly with broad ph rases such as shifts, breaks and chaotic tonal 
+clusters. These claims may be interesting  but they are not supported by figures, tables or 
+numerical summaries that let the reader judge the strength of the comparison. This is especially 
+
+=== PAGE 3 ===
+important because sp ectrogram analysis is mentioned  yet the results are not shown in a clear 
+visual or quantitative form. Repeated reruns of the same input only confirm the algorithm is 
+deterministic. They do not demonstrate biological validity or mutation -detection accuracy. A 
+meaningful results section requires quantitative acoustic features (e.g., spectral centroid, tempo, 
+pitch distribution), blinded classification experiments, and comparison against a null model such 
+as shuffled-sequence sonification. 
+16. There are no statistical tests performed to validate observed differences. Include appropriate tests 
+(t-tests, ANOVA) comparing acoustic parameters between strain types. 
+17. The discussion and conclusion go beyond the evidence presented. The study uses only three 
+sequences, yet the manuscript moves quickly to broader claims about large genomic datasets, 
+accessibility and wider biomedical use. These points may be worth mentioning but they should 
+be framed more cautiously and balanced with a clearer discussion of limitations.  Do not 
+overclaim or overgeneralize. Just report what you found. 
+18. The current  reference list contains only 5 citations. The author should expand the review of 
+literature with at -least 20 -25 primary research studies including sonification literature, 
+bioinformatics methods, and Xylella fastidiosa research. 
+ 
+Minor Issues: 
+ 
+1. The abbreviations OQDS and CVC should be defined clearly at first use in the main text. 
+2. There are clear grammar problems in the Abstract and Results sections. e.g., “the viral genomes 
+noticeable shifts in tone and pitch” is not grammatically correct.  
+3. Some ideas are repeated too often. e.g., the claims about accessibility and pattern recognit ion 
+appear in similar form in the abstract, discussion and conclusion.  
+4. A short table listing the sequences, accession numbers and disease associations would help the 
+reader follow the study more easily. This is especially useful because DQ991169.1 and 
+PQ550638.1 are named directly, while the CVC-associated sequence is described less clearly.  
+5. The naming of strains, sequences and comparison groups is not consistent enough. e.g., the 
+manuscript moves between “least mutated genome, ” “minimally mutated genome, ” “viral 
+genome” and “virulent strains,” which makes the comparison harder to follow.  
+6. Some terms are too broad and should be made more specific. e.g., “computer simulation” in the 
+introduction and “interactive model” in the methods section do not tell the reader enough.  
+7. The mention of Redux Slice is too brief for a broad readership. e.g., the methods state that 
+playback contr ol was provided by Redux Slice but its role in the workflow is not explained 
+clearly enough. 
+ 
+Manuscript Formatting Requirements 
+• Font: Times New Roman, 12 pt (headings should be bold). 
+• Manuscript Length: Maximum 20 pages with single line spacing, or 40 pages with 
+double line spacing. 

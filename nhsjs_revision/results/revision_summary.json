@@ -1,0 +1,241 @@
+{
+  "parameters": {
+    "window_size": 3000,
+    "windows_per_genome": 60,
+    "anomalies_per_genome": 4,
+    "background_substitution_rate": 0.001,
+    "random_seed": 20260712,
+    "permutations": 1000,
+    "bootstrap_resamples": 2000,
+    "random_pitch_mappings": 10
+  },
+  "host_groups": {
+    "grapevine": 9,
+    "almond": 10,
+    "olive": 10,
+    "coffee": 9,
+    "other_prunus": 8
+  },
+  "classification": [
+    {
+      "method": "composition",
+      "accuracy": 0.34782608695652173,
+      "permutations": 1000,
+      "p_value": 0.03196803196803197
+    },
+    {
+      "method": "pitch_order",
+      "accuracy": 0.45652173913043476,
+      "permutations": 1000,
+      "p_value": 0.000999000999000999
+    }
+  ],
+  "top_redundancy_pairs": [
+    {
+      "accession_a": "GCF_042239055.1",
+      "accession_b": "GCF_042238405.1",
+      "minhash_jaccard_21mer": 0.3179959100204499
+    },
+    {
+      "accession_a": "GCF_028227635.1",
+      "accession_b": "GCF_055766035.1",
+      "minhash_jaccard_21mer": 0.24081632653061225
+    },
+    {
+      "accession_a": "GCF_055959565.1",
+      "accession_b": "GCF_055959555.1",
+      "minhash_jaccard_21mer": 0.22587651256593236
+    },
+    {
+      "accession_a": "GCF_042239545.1",
+      "accession_b": "GCF_042237735.1",
+      "minhash_jaccard_21mer": 0.22461246440999683
+    },
+    {
+      "accession_a": "GCF_055959565.1",
+      "accession_b": "GCF_055959275.1",
+      "minhash_jaccard_21mer": 0.2188365650969529
+    },
+    {
+      "accession_a": "GCF_042239055.1",
+      "accession_b": "GCF_042239545.1",
+      "minhash_jaccard_21mer": 0.21057542768273718
+    },
+    {
+      "accession_a": "GCF_032594475.1",
+      "accession_b": "GCF_032594455.1",
+      "minhash_jaccard_21mer": 0.18315347721822542
+    },
+    {
+      "accession_a": "GCF_055959565.1",
+      "accession_b": "GCF_004023395.2",
+      "minhash_jaccard_21mer": 0.18225276366895726
+    },
+    {
+      "accession_a": "GCF_042239545.1",
+      "accession_b": "GCF_042237065.1",
+      "minhash_jaccard_21mer": 0.182095006090134
+    },
+    {
+      "accession_a": "GCF_012974125.1",
+      "accession_b": "GCF_012974145.1",
+      "minhash_jaccard_21mer": 0.17569589943130798
+    }
+  ],
+  "anomaly_summary": [
+    {
+      "method": "composition",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "composition",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "composition",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 0.4948563664596273,
+      "ci_low": 0.45408093944099376,
+      "ci_high": 0.5325116459627328,
+      "mean_precision_at_4": 0.04891304347826087
+    },
+    {
+      "method": "compression",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "compression",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "compression",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "pitch_order",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "pitch_order",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "pitch_order",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "sixmer",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "sixmer",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "sixmer",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "triplet_distribution",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "triplet_distribution",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "triplet_distribution",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 0.4953416149068324,
+      "ci_low": 0.4571040372670808,
+      "ci_high": 0.5348529697204969,
+      "mean_precision_at_4": 0.04891304347826087
+    },
+    {
+      "method": "triplet_transition",
+      "anomaly_type": "clustered_substitution",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "triplet_transition",
+      "anomaly_type": "foreign_segment",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    },
+    {
+      "method": "triplet_transition",
+      "anomaly_type": "triplet_order_shuffle",
+      "mean_auc": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1.0,
+      "mean_precision_at_4": 1.0
+    }
+  ],
+  "mapping_sensitivity": {
+    "mean": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "preprocessing_totals": {
+    "contigs": 628,
+    "ambiguous_bases": 1249,
+    "valid_segments": 1452
+  }
+}

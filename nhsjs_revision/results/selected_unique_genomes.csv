@@ -1,0 +1,47 @@
+accession,strain,host_group,host_or_source,assembly_level,selection_rule
+GCF_021459925.1,Stag's Leap,grapevine,Vitis vinifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_028227635.1,CFBP8083,grapevine,Vitis vinifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_014249995.1,GV230,grapevine,Vitis labrusca x Vitis vinifera cultivar Black Queen,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_028227275.1,WM1-1,grapevine,Vitis vinifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055766035.1,CFBP7969,grapevine,Vitis rotundifolia cv Carlos,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_011801475.1,ATCC 35879,grapevine,Grapevine,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_004016315.2,CFBP 7970,grapevine,grapevine,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_028891345.1,ICMP 15197,grapevine,Vitis vinifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_053901445.1,TemeculaL,grapevine,Vitis vinifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042239055.1,XYL1752/17,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042239545.1,XF3348,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_029962045.1,AM2-Angelina,almond,Almond,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055959565.1,IAS-AXF235T10,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055959275.1,IVIA6902,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055959555.1,IAS-AXF212H7,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_029962025.1,ALM4,almond,Almond,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_004023395.2,IVIA5901,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055764455.1,XYL2017/18,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_050157125.1,AL21,almond,Prunus dulcis,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042238405.1,XYL1966/18,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_012974125.1,RH1,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_012974145.1,LM10,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_029962065.1,OLI17A,olive,Olive,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_012974105.1,Fillmore,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_021474225.1,OC8,olive,Olea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_002117875.1,De Donno,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_002954205.1,Salento-2,olive,Olea europaea,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042237735.1,XYL466/19,olive,Olea europaea var. sylvestris,Chromosome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042237065.1,XYL468,olive,Olea europaea var. sylvestris,Chromosome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_004016415.2,CFBP 8356,coffee,Coffea arabica,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_001456195.2,3124,coffee,Coffee,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_048564955.1,CFBP8074,coffee,Coffee,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_032594475.1,CFBP8478,coffee,Coffea arabica,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_032594455.1,CO33,coffee,Coffea arabica,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_041053125.1,50088,coffee,Coffea arabica,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_028226975.1,CFBP8073,coffee,Coffea canephora,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_053901285.1,CFBP 8498,coffee,Coffea arabica,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_001469345.1,CFBP8072,coffee,Coffea arabica,Scaffold,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042241145.1,CFBP8173,other_prunus,Prunus salicina,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_053901235.1,CFBP 8075,other_prunus,Prunus sp.,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_001456295.2,Pr8x,other_prunus,Plum,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_003515915.2,IVIA5235,other_prunus,Prunus avium,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_015475955.1,Riv5,other_prunus,Prunus cerasifera,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_055690575.1,BA_CH92_4,other_prunus,Prunus avium,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_042243345.1,CFBP8070,other_prunus,Prunus sp.,Complete Genome,best quality locally available RefSeq assembly after normalized strain-name deduplication
+GCF_028640715.1,CFBP 13587,other_prunus,Prunus cerasus,Scaffold,best quality locally available RefSeq assembly after normalized strain-name deduplication

@@ -1,0 +1,74 @@
+{
+  "study_genomes": 50,
+  "host_groups": {
+    "grapevine": 10,
+    "almond": 10,
+    "olive": 10,
+    "coffee": 10,
+    "other_prunus": 10
+  },
+  "window_size_bp": 3000,
+  "max_windows_per_genome": 60,
+  "anomaly_windows_per_genome": 4,
+  "background_substitution_rate": 0.001,
+  "classification": [
+    {
+      "feature_kind": "composition",
+      "accuracy": 0.4,
+      "permutation_p_value": 0.0196078431372549,
+      "label": "composition"
+    },
+    {
+      "feature_kind": "codon64",
+      "accuracy": 0.4,
+      "permutation_p_value": 0.0196078431372549,
+      "label": "codon64"
+    },
+    {
+      "feature_kind": "amino_class",
+      "accuracy": 0.3,
+      "permutation_p_value": 0.058823529411764705,
+      "label": "amino_class"
+    }
+  ],
+  "best_foreign_segment_audio_auc": {
+    "feature_kind": "codon64",
+    "anomaly_type": "foreign_segment",
+    "mean_auc": 0.9927678571428572,
+    "auc_ci_low": 0.9889709821428572,
+    "auc_ci_high": 0.9959821428571429,
+    "mean_precision_at_k": 0.865,
+    "label": "codon64: foreign_segment"
+  },
+  "codon_order_shuffle_results": [
+    {
+      "feature_kind": "amino_class",
+      "anomaly_type": "codon_order_shuffle",
+      "mean_auc": 0.9582142857142857,
+      "auc_ci_low": 0.9449955357142857,
+      "auc_ci_high": 0.9688861607142857,
+      "mean_precision_at_k": 0.73,
+      "label": "amino_class: codon_order_shuffle"
+    },
+    {
+      "feature_kind": "codon64",
+      "anomaly_type": "codon_order_shuffle",
+      "mean_auc": 0.9739285714285713,
+      "auc_ci_low": 0.9665178571428571,
+      "auc_ci_high": 0.9803191964285713,
+      "mean_precision_at_k": 0.67,
+      "label": "codon64: codon_order_shuffle"
+    },
+    {
+      "feature_kind": "composition",
+      "anomaly_type": "codon_order_shuffle",
+      "mean_auc": 0.4992410714285714,
+      "auc_ci_low": 0.45575446428571426,
+      "auc_ci_high": 0.539078125,
+      "mean_precision_at_k": 0.05,
+      "label": "composition: codon_order_shuffle"
+    }
+  ],
+  "random_seed": 20260712,
+  "results_hash": "14adb7431dac3c20fafed58121e6b6aa9f8a8402c060ec79190ba9a6d1b9e86e"
+}

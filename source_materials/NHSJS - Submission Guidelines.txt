@@ -1,0 +1,107 @@
+=== PAGE 1 ===
+NHSJS – Submission Guidelines 
+Abstract 
+Background/Objective Outline the background or context of the study and states the main objective or research question being addressed. It 
+explains why the study was conducted and what gap in knowledge or problem it aims to address 
+Methods Provide an overview of the research design, methodology, and techniques used to conduct the study. It includes details 
+about the participants or sample, data collection methods, and data analysis procedures. 
+Results Summarize the main findings of the study. Highlight the key outcomes, trends, and significant results that emerged from 
+the analysis of the collected data. It's important to present these findings objectively and succinctly 
+Conclusions 
+Sum up the implications and conclusions drawn from the study's findings. Address how the results answer the research 
+question or contribute to the broader field of study. Discuss any potential applications, recommendations, or further 
+research suggested by the findings 
+Keywords Include a list of keywords or phrases that are relevant to the study. These keywords help index the abstract and make it 
+easier for readers to find the paper when searching for related topics 
+ Note: The abstract is limited to a specific word count ranging from 200-250 word. 
+Introduction 
+Background and 
+Context 
+Begin by introducing the broader context within which your research is situated. This could involve discussing the general 
+field of study, existing theories, previous research, or relevant historical developments. Provide enough information to 
+help the reader understand the context of your study. 
+Problem Statement 
+and Rationale 
+Clearly state the research problem or question you're addressing. Explain why this problem is worth inves tigating and 
+why it's relevant to the field. Discuss any gaps, inconsistencies, or limitations in the existing research that your study aims 
+to address 
+Significance and 
+Purpose  
+Explain the significance of your research. How will your study contribute to the field's understanding, knowledge, or 
+practice? Highlight the potential implications, practical applications, or theoretical advancements that may result from 
+your findings 
+Objectives State the specific objectives of your study. What do you aim to achi eve with this research? If applicable, present the 
+research questions or hypotheses that guide your investigation. 
+Scope and 
+Limitations 
+Clearly define the scope of your study. What aspects are included and excluded? Discuss any limitations, such as 
+constraints on resources, data availability, or potential biases 
+Theoretical 
+Framework 
+If your research is grounded in a particular theoretical framework or conceptual model, introduce it here. Explain how 
+this framework informs your study and provides a lens through which to analyze the data. 
+Methodology 
+Overview 
+Provide a brief overview of the research methodology you employed. Describe the general approach you took to gather 
+and analyze data. However, save the detailed methodology for the "Methodology" section later in the paper 
+Methodology (For Research Paper) 
+Research Design Describe the overall structure of the study, such as whether it's experimental, observational, cross-sectional, longitudinal, 
+etc 
+Participants or 
+Sample 
+Specify the characteristics of the participants or subjects involved in the study. This includes demographic information 
+and any relevant selection criteria. 
+
+=== PAGE 2 ===
+Data Collection Detail the methods used to collect data. This could involve surveys, interviews, experiments,  observations, or other 
+techniques. Explain how the data was collected and why those methods were chosen. 
+Variables and 
+Measurements 
+Clearly define the variables under investigation and explain how they were measured or operationalized. Discuss any 
+tools, scales, or instruments used for measurement 
+Procedure Outline the step -by-step procedure followed in the study. This should include the sequence of activities from data 
+collection to analysis. 
+Data Analysis Describe the techniques employed to analyze the collected data. Whether you're using statistical tests, qualitative analysis, 
+or a combination, provide details about the methods and tools used. 
+Ethical 
+Considerations 
+Mention any ethical concerns associated with the study and how they were a ddressed, including informed consent, 
+confidentiality, and adherence to relevant guidelines. 
+Methodology (For Review Paper) 
+Search Strategy Describe the systematic approach used to search for relevant literature. This might involve databases, keywords, inclusion 
+and exclusion criteria, and any filters applied 
+Inclusion Criteria Explain the criteria used to select the studies included in the review. This could encompass publication dates, study 
+designs, relevance to the topic, and other factors. 
+Data Extraction Detail how data from selected studies were extracted. This might include information about the authors, publication dates, 
+research designs, key findings, and other relevant data points. 
+Synthesis Method Discuss how the gathered informa tion was synthesized and organized. This could involve thematic analysis, narrative 
+synthesis, or any other approach used to derive meaningful insights from the literature. 
+Quality Assessment If applicable, explain how the quality of the included studies was assessed. Mention any tools or criteria used to evaluate 
+the validity and reliability of the selected research 
+Conclusion 
+Restatement of Key 
+Findings 
+Summarize the main results of your study. Provide a concise overview of the most important findings that directly address 
+your research objectives or questions. 
+Implications and 
+Significance 
+Discuss the implications of your findings. How do your results contribute to the field's understanding of the research 
+problem? Explain the practical, theoretical, or academic significance of your work. Highlight how your study advances 
+existing knowledge or fills gaps in the literature. 
+Connection to 
+Objectives 
+Reflect on whether your research objectives or hypotheses were met. If they were not fully met, discuss why and consider 
+any unexpected outcomes 
+Recommendations If applicable, offer recommendations for future research or practical applications based on your findings. Suggest areas 
+that could benefit from further investigation, and discuss how your study provides a foundation for future work. 
+Limitations 
+Acknowledge the limitations of your study. Address any constraints, biases, or factors that may have impacted the 
+reliability or generalizability of your findings. Being transparent about limitations demonstrates a thoughtful and critical 
+approach to research. 
+Closing Thought End your conclusion with a thought -provoking or insightful statement that leaves the reader with a lasting impression. 
+This could be a reflection on the broader implications of the research or a call to action related to the research topic. 
+Avoid New 
+Information 
+The conclusion is not the place to introduce new information or concepts that have not been discussed earlier in the paper. 
+Stick to summarizing and discussing the information already presented. 
+ 

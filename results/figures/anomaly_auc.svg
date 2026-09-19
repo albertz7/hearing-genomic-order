@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="32" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Mean AUC for local anomaly detection</text>
+<text x="122" y="94" text-anchor="end" font-family="Arial" font-size="13">amino_class: clustered_substitution</text>
+<rect x="130" y="70" width="509" height="38" fill="#4C78A8"/>
+<text x="647" y="94" font-family="Arial" font-size="13">0.943</text>
+<text x="122" y="152" text-anchor="end" font-family="Arial" font-size="13">amino_class: codon_order_shuffle</text>
+<rect x="130" y="128" width="517" height="38" fill="#4C78A8"/>
+<text x="655" y="152" font-family="Arial" font-size="13">0.958</text>
+<text x="122" y="210" text-anchor="end" font-family="Arial" font-size="13">amino_class: foreign_segment</text>
+<rect x="130" y="186" width="531" height="38" fill="#4C78A8"/>
+<text x="669" y="210" font-family="Arial" font-size="13">0.985</text>
+<text x="122" y="268" text-anchor="end" font-family="Arial" font-size="13">codon64: clustered_substitution</text>
+<rect x="130" y="244" width="507" height="38" fill="#4C78A8"/>
+<text x="645" y="268" font-family="Arial" font-size="13">0.939</text>
+<text x="122" y="326" text-anchor="end" font-family="Arial" font-size="13">codon64: codon_order_shuffle</text>
+<rect x="130" y="302" width="525" height="38" fill="#4C78A8"/>
+<text x="663" y="326" font-family="Arial" font-size="13">0.974</text>
+<text x="122" y="384" text-anchor="end" font-family="Arial" font-size="13">codon64: foreign_segment</text>
+<rect x="130" y="360" width="536" height="38" fill="#4C78A8"/>
+<text x="674" y="384" font-family="Arial" font-size="13">0.993</text>
+<text x="122" y="442" text-anchor="end" font-family="Arial" font-size="13">composition: clustered_substitution</text>
+<rect x="130" y="418" width="540" height="38" fill="#4C78A8"/>
+<text x="678" y="442" font-family="Arial" font-size="13">1.000</text>
+<text x="122" y="500" text-anchor="end" font-family="Arial" font-size="13">composition: codon_order_shuffle</text>
+<rect x="130" y="476" width="269" height="38" fill="#4C78A8"/>
+<text x="407" y="500" font-family="Arial" font-size="13">0.499</text>
+<text x="122" y="558" text-anchor="end" font-family="Arial" font-size="13">composition: foreign_segment</text>
+<rect x="130" y="534" width="540" height="38" fill="#4C78A8"/>
+<text x="678" y="558" font-family="Arial" font-size="13">1.000</text>
+<line x1="130" y1="350" x2="700" y2="350" stroke="#222"/>
+</svg>
